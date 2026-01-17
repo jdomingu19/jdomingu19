@@ -100,7 +100,6 @@
 
 <div align="center">
 
-[![Linktree Dev](https://img.shields.io/badge/linktr.ee_(dev)_-bluefeather.dev-0F4C75?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/bluefeather.dev)
 [![Linktree Personal](https://img.shields.io/badge/linktr.ee_(personal)_-Jesús_Domínguez-006A71?style=for-the-badge&logo=linktree&labelColor=101010)](https://www.linktr.ee/jdomingu19)
 
 </div>
@@ -109,10 +108,10 @@
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluefeatherdev&theme=noctis_minimus&locale=en" alt="Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jdomingu19&theme=noctis_minimus&locale=en" alt="Stats" />
 
 </div>
 
 <br>
 
-> Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev/)
+> Made with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
