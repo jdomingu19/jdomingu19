@@ -14,6 +14,7 @@ Software Engineering student, and Technical Specialist in Software Analysis and 
 >
 > **AI:** ChatGPT, Claude, GitHub Copilot
 
+
 ## 
 
 > Made with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
