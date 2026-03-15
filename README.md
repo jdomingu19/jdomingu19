@@ -4,12 +4,15 @@ Software Engineering student, and Technical Specialist in Software Analysis and 
 
 ### My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=8&i=js,ts,nodejs,react,vscode,git,github,chatgpt,claudeai,githubcopilot)](https://skillicons.dev)
+
 > **Front-End:** JavaScript, TypeScript, Node.js, React.js
 > 
 > **Back-End:** Node.js
 > 
 > **Tools:** Visual Studio Code, Git, GitHub
+>
+> **AI:** ChatGPT, Claude, GitHub Copilot
 
 ## 
 
