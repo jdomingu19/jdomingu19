@@ -20,4 +20,8 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
 
 <br/>
 
+<img   height="400" alt="person_jdomingu19" src="https://github.com/jdomingu19/jdomingu19/blob/main/20260423_203726.jpg" />
+
+<br/>
+
 > Built with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
