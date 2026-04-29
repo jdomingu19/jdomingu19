@@ -1,19 +1,5 @@
 # Hello, there! 👋🏻
 
-Soy estudiante de programación/ingeniería de sistemas/etc...
-
-## 🎯 Tecnologías que estoy aprendiendo
-
-- TypeScript
-- Node.js
-- React
-
-## 👨‍💻 Mis redes sociales
-
-- [LinkedIn](https://www.linkedin.com/in/jesus-dominguez-dev)
-- [Instagram](https://www.instagram.com/jdomingu19)
-- [X (Twitter)](https://www.x.com/jdomingu19)
-
 | Banner | Person |
 |--------|--------|
 | <img width="1280" height="400" alt="header_jdomingu19" src="https://github.com/user-attachments/assets/9d791281-1625-48c4-bc46-5ec5df82f94b" /> | <img height="400" alt="person_jdomingu19" src="https://github.com/jdomingu19/jdomingu19/blob/main/20260423_203726.jpg" /> |
@@ -33,5 +19,13 @@ Full Stack Developer enfocado en TypeScript, Node.js y React Native. Experiencia
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jdomingu19&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 👨‍💻 My Social Media
+
+- [LinkedIn](https://www.linkedin.com/in/jesus-dominguez-dev)
+- [Instagram](https://www.instagram.com/jdomingu19)
+- [X (Twitter)](https://www.x.com/jdomingu19)
+
+##
 
 > Built with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
