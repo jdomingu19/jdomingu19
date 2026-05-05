@@ -4,19 +4,19 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | <img width="1280" height="400" alt="header_jdomingu19" src="https://github.com/user-attachments/assets/9d791281-1625-48c4-bc46-5ec5df82f94b" /> | <img height="400" alt="person_jdomingu19" src="https://github.com/jdomingu19/jdomingu19/blob/main/jdomingu19_person.jpg" /> |
 
-## About Me:
+## 🧑🏻‍💻 About Me:
 
 **Full Stack Developer** specializing in TypeScript, Node.js, and React Native for iOS, Android, & Web Applications. 
 
 Academic background in Software Development with hands-on experience in JavaScript, Git, and GitHub. Skilled in applying Clean Code principles, Problem Solving, API Integration, and Continuous Learning across projects and technical documentation.
 
-## Socials:
+## 📲 Socials:
 
 [![Linktr.ee](https://img.shields.io/badge/linktree-1C2024?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://linktr.ee/jdomingu19)
 [![Instagram](https://img.shields.io/badge/Instagram-1C2024?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://instagram.com/jdomingu19)
 [![X](https://img.shields.io/badge/X-1C2024?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/jdomingu19)
 
-## Tech Stack:
+## 🎯 Tech Stack:
 
 ![TypeScript](https://img.shields.io/badge/typescript-1C2024?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010) 
 ![JavaScript](https://img.shields.io/badge/javascript-1C2024?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) 
