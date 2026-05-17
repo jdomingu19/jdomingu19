@@ -1,14 +1,19 @@
 # Hello, there! 👋🏻
 
-| Banner                                                                                                                                          | Person                                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| <img width="1280" height="400" alt="header_jdomingu19" src="https://github.com/user-attachments/assets/97290d3e-4acd-4c42-a8d0-0300e5d3ac74" /> | <img height="400" alt="person_jdomingu19" src="https://github.com/jdomingu19/jdomingu19/blob/main/jdomingu19_person.jpg" /> |
+<img width="100%" alt="header_jdomingu19" src="https://github.com/user-attachments/assets/97290d3e-4acd-4c42-a8d0-0300e5d3ac74" /> 
 
 ## 🧑🏻‍💻 About Me:
 
 **Full Stack Developer** specializing in TypeScript, Node.js, and React Native for iOS, Android, & Web Applications. 
 
 Academic background in Software Development with hands-on experience in JavaScript, Git, and GitHub. Skilled in applying Clean Code principles, Problem Solving, API Integration, and Continuous Learning across projects and technical documentation.
+
+> Outside of coding, I enjoy:
+>
+> - 📸 Exploring creativity through photography  
+> - 📖 Expanding knowledge and awareness by reading books
+> - 🎹 Expressing myself through poetry and music  
+> - 🏅 Staying active and motivated with sports
 
 ## 📲 Socials:
 
