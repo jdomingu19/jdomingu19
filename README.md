@@ -8,12 +8,24 @@
 
 Academic background in Software Development with hands-on experience in JavaScript, Git, and GitHub. Skilled in applying Clean Code principles, Problem Solving, API Integration, and Continuous Learning across projects and technical documentation.
 
-> Outside of coding, I enjoy:
+> **Skills:**
+>
+> - 🎨 **Frontend:** TypeScript, JavaScript, React
+> - ⚙️ **Backend:** Node.js, Express.js
+> - 🧠 **AI:** Claude Code, GitHub Copilot
+
+> **Hobbies:**
 >
 > - 📸 Exploring creativity through photography  
 > - 📖 Expanding knowledge and awareness by reading books
 > - 🎹 Expressing myself through poetry and music  
 > - 🏅 Staying active and motivated with sports
+
+> **Education:**
+>
+> - abc abc abc
+> - abc abc abc
+> - abc abc abc
 
 ## 📲 Socials:
 
