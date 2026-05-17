@@ -2,7 +2,7 @@
 
 | Banner                                                                                                                                          | Person                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| <img width="1280" height="400" alt="header_jdomingu19" src="https://github.com/user-attachments/assets/9d791281-1625-48c4-bc46-5ec5df82f94b" /> | <img height="400" alt="person_jdomingu19" src="https://github.com/jdomingu19/jdomingu19/blob/main/jdomingu19_person.jpg" /> |
+| <img width="1280" height="400" alt="header_jdomingu19" src="https://github.com/user-attachments/assets/97290d3e-4acd-4c42-a8d0-0300e5d3ac74" /> | <img height="400" alt="person_jdomingu19" src="https://github.com/jdomingu19/jdomingu19/blob/main/jdomingu19_person.jpg" /> |
 
 ## 🧑🏻‍💻 About Me:
 
