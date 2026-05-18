@@ -4,7 +4,7 @@
 
 ## 🧑🏻‍💻 About Me:
 
-**Full Stack Developer** specializing in TypeScript, Node.js, and React Native for iOS, Android, & Web Applications. 
+**Full-Stack Developer** specializing in TypeScript, Node.js, and React Native for iOS, Android, & Web Applications. 
 
 Academic background in Software Development with hands-on experience in JavaScript, Git, and GitHub. Skilled in applying Clean Code principles, Problem Solving, API Integration, and Continuous Learning across projects and technical documentation.
 
