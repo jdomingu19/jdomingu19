@@ -19,7 +19,7 @@ Academic background in Software Development with hands-on experience in JavaScri
 > - ✍🏻 **Journaling**
 > - 📖 **Reading books**
 > - 🏅 **Sports**
-> - 🎹 **Music**
+> - 🎹 **Listen to music**
 > - 📸 **Photography**
 
 
