@@ -34,9 +34,10 @@ Academic background in Software Development with hands-on experience in JavaScri
 
 [![Linktr.ee](https://img.shields.io/badge/linktree-1C2024?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://linktr.ee/jdomingu19)
 [![Instagram](https://img.shields.io/badge/Instagram-1C2024?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://instagram.com/jdomingu19)
-[![Threads](https://img.shields.io/badge/threads-1C2024?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://www.threads.com/@jdomingu19)
+[![Threads](https://img.shields.io/badge/threads-1C2024?style=for-the-badge&logo=threads&logoColor=white&labelColor=101010)](https://www.threads.com/@jdomingu19)
 [![Bluesky](https://img.shields.io/badge/bluesky-1C2024?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=101010)](https://bsky.app/profile/jdomingu19.bsky.social)
 [![X](https://img.shields.io/badge/X-1C2024?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/jdomingu19)
+[![Pinterest](https://img.shields.io/badge/pinterest-1C2024?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=101010)](https://pinterest.com/jdomingu19)
 
 ##
 
