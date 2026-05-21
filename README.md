@@ -15,12 +15,13 @@ Academic background in Software Development with hands-on experience in JavaScri
 > - 🧠 **AI:** Claude Code, GitHub Copilot
 
 > **Hobbies:**
->
-> - 📸 **Photography:** Exploring creativity through photography  
-> - 📖 **Reading books:** Expanding knowledge and awareness by reading books
+>  
 > - ✍🏻 **Journaling:** abc abc abc 
-> - 🎹 **Music:** abc abc abc
+> - 📖 **Reading books:** Expanding knowledge and awareness by reading books
 > - 🏅 **Sports:** abc abc abc 
+> - 🎹 **Music:** abc abc abc
+> - 📸 **Photography:** Exploring creativity through photography
+
 
 > **Education:**
 >
