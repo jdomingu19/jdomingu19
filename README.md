@@ -12,8 +12,8 @@ Academic background in Software Development with hands-on experience in JavaScri
 >
 > - 🎨 **Frontend:** TypeScript, JavaScript, HTML, CSS, React
 > - ⚙️ **Backend:** Node.js, Express.js
-> - 🧠 **AI:** Claude Code, GitHub Copilot
 > - 🛠️ **Tools:** Git, GitHub
+> - 🧠 **AI:** Claude Code, GitHub Copilot
 
 > **Hobbies:**
 >  
