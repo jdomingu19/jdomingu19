@@ -25,9 +25,8 @@ Academic background in Software Development with hands-on experience in JavaScri
 
 > **Education:**
 >
-> - abc abc abc
-> - abc abc abc
-> - abc abc abc
+> - 🟥 Bachelor’s Degree in Systems Engineering (2021-2026)
+> - 🟦 Technical Diploma in Software Analysis and Development (2020-2021)
 
 ## 📲 Socials:
 
