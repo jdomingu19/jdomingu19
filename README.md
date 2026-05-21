@@ -16,10 +16,11 @@ Academic background in Software Development with hands-on experience in JavaScri
 
 > **Hobbies:**
 >
-> - 📸 Exploring creativity through photography  
-> - 📖 Expanding knowledge and awareness by reading books
-> - 🎹 Expressing myself through poetry and music  
-> - 🏅 Staying active and motivated with sports
+> - 📸 **Photography:** Exploring creativity through photography  
+> - 📖 **Reading books:** Expanding knowledge and awareness by reading books
+> - ✍🏻 **Journaling:** abc abc abc 
+> - 🎹 **Music:** abc abc abc
+> - 🏅 **Sports:** abc abc abc 
 
 > **Education:**
 >
