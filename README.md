@@ -2,6 +2,13 @@
 
 <img width="100%" alt="header_jdomingu19" src="https://github.com/user-attachments/assets/97290d3e-4acd-4c42-a8d0-0300e5d3ac74" /> 
 
+[![Linktr.ee](https://img.shields.io/badge/linktree-1C2024?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://linktr.ee/jdomingu19)
+[![Instagram](https://img.shields.io/badge/Instagram-1C2024?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://instagram.com/jdomingu19)
+[![Threads](https://img.shields.io/badge/threads-1C2024?style=for-the-badge&logo=threads&logoColor=white&labelColor=101010)](https://www.threads.com/@jdomingu19)
+[![Bluesky](https://img.shields.io/badge/bluesky-1C2024?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=101010)](https://bsky.app/profile/jdomingu19.bsky.social)
+[![X](https://img.shields.io/badge/X-1C2024?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/jdomingu19)
+[![Pinterest](https://img.shields.io/badge/pinterest-1C2024?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=101010)](https://pinterest.com/jdomingu19)
+
 ## 🧑🏻‍💻 About Me:
 
 **Full-Stack Developer** focused on building modern iOS, Android, & Web Applications. 
@@ -32,17 +39,6 @@ I prioritize user experience and the design of modern, intuitive interfaces, com
 >
 > - 🟥 Bachelor’s Degree in Systems Engineering (2021-2026)
 > - 🟦 Technical Diploma in Software Analysis and Development (2020-2021)
-
-## 📲 Socials:
-
-You can find me on these platforms, where I share my journey as a Software Engineer, useful resources, personal growth, meaningful experiences, and photography:
-
-[![Linktr.ee](https://img.shields.io/badge/linktree-1C2024?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://linktr.ee/jdomingu19)
-[![Instagram](https://img.shields.io/badge/Instagram-1C2024?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://instagram.com/jdomingu19)
-[![Threads](https://img.shields.io/badge/threads-1C2024?style=for-the-badge&logo=threads&logoColor=white&labelColor=101010)](https://www.threads.com/@jdomingu19)
-[![Bluesky](https://img.shields.io/badge/bluesky-1C2024?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=101010)](https://bsky.app/profile/jdomingu19.bsky.social)
-[![X](https://img.shields.io/badge/X-1C2024?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/jdomingu19)
-[![Pinterest](https://img.shields.io/badge/pinterest-1C2024?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=101010)](https://pinterest.com/jdomingu19)
 
 ##
 
