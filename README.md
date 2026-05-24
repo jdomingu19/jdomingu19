@@ -36,7 +36,7 @@ I prioritize user experience and the design of modern, intuitive interfaces, com
 
 
 > **Education:**
->
+> - 🟥 Coming Soon...
 > - 🟥 Bachelor’s Degree in Systems Engineering (2021-2026)
 > - 🟦 Technical Diploma in Software Analysis and Development (2020-2021)
 
