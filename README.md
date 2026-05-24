@@ -35,6 +35,8 @@ I prioritize user experience and the design of modern, intuitive interfaces, com
 
 ## 📲 Socials:
 
+You can find me on these platforms, where I share my journey as a Software Engineer, useful resources, personal growth, meaningful experiences, and photography:
+
 [![Linktr.ee](https://img.shields.io/badge/linktree-1C2024?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://linktr.ee/jdomingu19)
 [![Instagram](https://img.shields.io/badge/Instagram-1C2024?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://instagram.com/jdomingu19)
 [![Threads](https://img.shields.io/badge/threads-1C2024?style=for-the-badge&logo=threads&logoColor=white&labelColor=101010)](https://www.threads.com/@jdomingu19)
