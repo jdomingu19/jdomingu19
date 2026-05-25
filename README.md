@@ -23,6 +23,7 @@ I prioritize user experience and the design of modern, intuitive interfaces, com
 > - ⚙️ **Backend:** Node.js, Express.js
 > - 🗂️ **Database:** Postgres, MongoDB
 > - 🛠️ **Tools:** Git, GitHub, Docker, Figma
+> - 💡 **Best practices:** Clean Code
 > - 🧠 **AI:** Claude Code, GitHub Copilot
 
 > **Hobbies:**
