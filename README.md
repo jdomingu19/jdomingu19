@@ -15,7 +15,7 @@
 
 Through technology, I strive to improve communication between people, optimize processes, and simplify information management by developing functional and well-structured solutions. I currently work with technologies such as TypeScript, React Native, and Expo, building cross-platform applications for iOS, Android, and the Web.
 
-I prioritize user experience and the design of modern, intuitive interfaces, combining functionality with strong visual design. I apply software development best practices to create maintainable, scalable, and high-quality code for the long term. I also complement my professional growth with personal development, focused on discipline, continuous improvement, and lifelong learning.
+I prioritize user experience and the design of modern, intuitive interfaces, combining functionality with strong visual design. I apply software development best practices to create maintainable, scalable, and high-quality code for the long term. I complement my professional growth with personal development, focused on discipline, continuous improvement, and lifelong learning.
 
 > **Skills:**
 >
