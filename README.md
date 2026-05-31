@@ -31,7 +31,7 @@ I prioritize user experience and the design of modern, intuitive interfaces, com
 > - ✍🏻 **Journaling**
 > - 📖 **Reading books**
 > - 💪🏻 **Sports**
-> - 🎹 **Listen to music**
+> - 🎧 **Listen to music**
 > - ✈️ **Traveling**
 > - 📸 **Photography**
 
