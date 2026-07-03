@@ -33,18 +33,25 @@
 
 > **Hobbies:**
 >  
-> - ✍🏻 **Journaling**
-> - 📖 **Reading books**
-> - 💪🏻 **Sports**
-> - 🎧 **Listen to music**
-> - ✈️ **Traveling**
-> - 📸 **Photography**
+> ✓ ✍🏻 **Journaling**
+>
+> ✓ 📖 **Reading books**
+>
+> ✓ 💪🏻 **Sports**
+>
+> ✓ 🎧 **Listen to music**
+>
+> ✓ ✈️ **Traveling**
+>
+> ✓ 📸 **Photography**
 
 
 > **Education:**
-> - 🟥 Coming Soon...
-> - 🟥 Bachelor’s Degree in Systems Engineering (2021-2026)
-> - 🟦 Technical Diploma in Software Analysis and Development (2020-2021)
+> ✓ 🟦 Coming Soon...
+>
+> ✓ 🟥 Bachelor’s Degree in Systems Engineering (2021-2026)
+>
+> ✓ 🟦 Technical Diploma in Software Analysis and Development (2020-2021)
 
 ##
 
