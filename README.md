@@ -19,7 +19,7 @@
 
 > **Skills:**
 >
-> ✓ 🎨 **Frontend:** TypeScript, JavaScript, HTML, CSS, React
+> ✓ 🎨 **Frontend:** React.js, TailwindCSS, TypeScript
 >
 > ✓ ⚙️ **Backend:** Node.js, Express.js
 >
@@ -47,6 +47,7 @@
 
 
 > **Education:**
+>
 > ✓ 🟦 Coming Soon...
 >
 > ✓ 🟥 Bachelor’s Degree in Systems Engineering (2021-2026)
