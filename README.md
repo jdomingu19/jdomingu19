@@ -11,7 +11,9 @@
 
 ## 🧑🏻‍💻 About Me:
 
-**Full-Stack Developer** focused on building modern iOS, Android, & Web Applications. 
+✓ **Full-Stack Developer.**
+✓ Software Engineering.
+✓ iOS, Android, & Web Applications. 
 
 > **Skills:**
 >
