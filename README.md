@@ -19,12 +19,12 @@
 
 > **Skills:**
 >
-> - 🎨 **Frontend:** TypeScript, JavaScript, HTML, CSS, React
-> - ⚙️ **Backend:** Node.js, Express.js
-> - 🗂️ **Database:** Postgres, MongoDB
-> - 🛠️ **Tools:** Git, GitHub, Docker, Figma
-> - 💡 **Best practices:** Clean Code
-> - 🧠 **AI:** Claude Code, GitHub Copilot
+> ✓ 🎨 **Frontend:** TypeScript, JavaScript, HTML, CSS, React
+> ✓ ⚙️ **Backend:** Node.js, Express.js
+> ✓ 🗂️ **Database:** Postgres, MongoDB
+> ✓ 🛠️ **Tools:** Git, GitHub, Docker, Figma
+> ✓ 💡 **Best practices:** Clean Code
+> ✓ 🧠 **AI:** Claude Code, GitHub Copilot
 
 > **Hobbies:**
 >  
