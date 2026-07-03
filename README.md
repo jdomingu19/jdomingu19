@@ -12,7 +12,9 @@
 ## 🧑🏻‍💻 About Me:
 
 ✓ **Full-Stack Developer.**
+
 ✓ Software Engineering.
+
 ✓ iOS, Android, & Web Applications. 
 
 > **Skills:**
