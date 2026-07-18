@@ -35,6 +35,14 @@
 >
 > ✓ 🧠 **AI:** Claude Code, GitHub Copilot
 
+> **Soft Skills:**
+>
+> ✓ 🗣️ **Communication**
+>
+> ✓ ...
+> 
+> ✓ ...
+
 > **Hobbies:**
 >  
 > ✓ ✍🏻 **Journaling**
