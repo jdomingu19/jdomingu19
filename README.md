@@ -23,7 +23,7 @@
 
 > **Skills:**
 >
-> ✓ 🎨 **Frontend:** React.js, TailwindCSS, TypeScript
+> ✓ 🎨 **Frontend:** React.js, Tailwind CSS, TypeScript
 >
 > ✓ ⚙️ **Backend:** Node.js, Express.js
 >
