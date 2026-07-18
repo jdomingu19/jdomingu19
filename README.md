@@ -39,9 +39,19 @@
 >
 > ✓ 🗣️ **Communication**
 >
-> ✓ ...
+> ✓ 🎯 **Leadership**
+>
+> ✓ 🧠 **Analytical thinking**
 > 
-> ✓ ...
+> ✓ 🔎 **Pattern detection**
+> 
+> ✓ 💡 **Focus ability**
+> 
+> ✓ 🗺️ **Planning**
+> 
+> ✓ 🏃🏻 **Proactivity**
+>
+> ✓ 🤝 **Teamwork**
 
 > **Hobbies:**
 >  
