@@ -31,9 +31,9 @@
 >
 > ✓ 🛠️ **Tools:** Git, GitHub, Docker, Figma
 >
-> ✓ 💡 **Best practices:** Clean Code
+> ✓ 💡 **Best practices:** Clean Architecture, Clean Code, System Design
 >
-> ✓ 🧠 **AI:** Claude Code, GitHub Copilot
+> ✓ 🧠 **AI:** Claude Code, GitHub Copilot, Cursor
 
 > **Soft Skills:**
 >
@@ -64,6 +64,8 @@
 > ✓ 🎧 **Listen to music**
 >
 > ✓ ✈️ **Traveling**
+>
+> ✓ 🏕️ **Hiking**
 >
 > ✓ 📸 **Photography**
 
