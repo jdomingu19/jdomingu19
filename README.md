@@ -11,11 +11,15 @@
 
 ## 🧑🏻‍💻 About Me:
 
-✓ **Full-Stack Developer.**
+✓ Software Engineer | Technical Leadership
 
-✓ Software Engineering.
+✓ System Design | Clean Architecture
 
-✓ iOS, Android, & Web Applications. 
+✓ Author | Technical Writer
+
+✓ Web & Mobile Applications
+
+✓ Technology | Personal Development
 
 > **Skills:**
 >
