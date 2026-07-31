@@ -75,6 +75,22 @@ I am a Software Engineer focused on building modern web applications through cle
 </tr>
 </table>
 
+## Projects
+
+?
+
+## Books
+
+?
+
+## Articles
+
+?
+
+## Contact
+
+?
+
 ##
 
 > Built with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
