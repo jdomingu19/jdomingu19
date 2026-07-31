@@ -13,65 +13,6 @@
 
 I am a Software Engineer focused on building modern web applications through clean architecture, modular design, and user-centered experiences. I create intuitive, scalable, and maintainable software. I strengthen every project through assertive communication, deep focus, continuous learning, and technical documentation. Academic excellence awards and honors reflect my commitment to professional growth, while my passion for technology, software engineering, and personal development drives me to continuously expand my knowledge. I communicate in Spanish, English, and Catalan, allowing me to collaborate in multicultural environments. I continuously develop my technical and leadership skills with the goal of contributing to software engineering through system design, technical leadership, and high-quality software solutions.
 
-
-> **Skills:**
->
-> ✓ 🎨 **Frontend:** React.js, Tailwind CSS, TypeScript
->
-> ✓ ⚙️ **Backend:** Node.js, Express.js
->
-> ✓ 🗂️ **Database:** Postgres, MongoDB
->
-> ✓ 🛠️ **Tools:** Git, GitHub, Docker, Figma
->
-> ✓ 💡 **Best practices:** Clean Architecture, Clean Code, System Design
->
-> ✓ 🧠 **AI:** Claude Code, GitHub Copilot, Cursor
-
-> **Soft Skills:**
->
-> ✓ 🗣️ **Communication**
->
-> ✓ 🎯 **Leadership**
->
-> ✓ 🧠 **Analytical thinking**
-> 
-> ✓ 🔎 **Pattern detection**
-> 
-> ✓ 💡 **Focus ability**
-> 
-> ✓ 🗺️ **Planning**
-> 
-> ✓ 🏃🏻 **Proactivity**
->
-> ✓ 🤝 **Teamwork**
-
-> **Hobbies:**
->  
-> ✓ ✍🏻 **Journaling**
->
-> ✓ 📖 **Reading books**
->
-> ✓ 💪🏻 **Sports**
->
-> ✓ 🎧 **Listen to music**
->
-> ✓ ✈️ **Traveling**
->
-> ✓ 🏕️ **Hiking**
->
-> ✓ 📸 **Photography**
-
-
-> **Education:**
->
-> ✓ 🟦 Coming Soon...
->
-> ✓ 🟥 Bachelor’s Degree in Systems Engineering (2021-2026)
->
-> ✓ 🟦 Technical Diploma in Software Analysis and Development (2020-2021)
-
-
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -79,6 +20,7 @@ I am a Software Engineer focused on building modern web applications through cle
 ### 🛠️ Skills
 
 - 🎨 **Frontend:** React.js, Tailwind CSS, TypeScript
+
 - ⚙️ **Backend:** Node.js, Express.js
 - 🗂️ **Database:** PostgreSQL, MongoDB
 - 🛠️ **Tools:** Git, GitHub, Docker, Figma
@@ -92,6 +34,7 @@ I am a Software Engineer focused on building modern web applications through cle
 ### 🤝 Soft Skills
 
 - 🗣️ Communication
+
 - 🎯 Leadership
 - 🧠 Analytical Thinking
 - 🔎 Pattern Detection
@@ -109,6 +52,7 @@ I am a Software Engineer focused on building modern web applications through cle
 ### 🎯 Hobbies
 
 - ✍🏻 Journaling
+
 - 📖 Reading
 - 💪🏻 Sports
 - 🎧 Listening to Music
@@ -123,6 +67,7 @@ I am a Software Engineer focused on building modern web applications through cle
 ### 🎓 Education
 
 - 🟦 Coming Soon...
+
 - 🟥 Bachelor's Degree in Systems Engineering (2021–2026)
 - 🟦 Technical Diploma in Software Analysis and Development (2020–2021)
 
