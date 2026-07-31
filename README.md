@@ -11,15 +11,8 @@
 
 ## 🧑🏻‍💻 About Me:
 
-✓ Software Engineer | Technical Leadership
+I am a Software Engineer focused on building modern web applications through clean architecture, modular design, and user-centered experiences. I create intuitive, scalable, and maintainable software. I strengthen every project through assertive communication, deep focus, continuous learning, and technical documentation. Academic excellence awards and honors reflect my commitment to professional growth, while my passion for technology, software engineering, and personal development drives me to continuously expand my knowledge. I communicate in Spanish, English, and Catalan, allowing me to collaborate in multicultural environments. I continuously develop my technical and leadership skills with the goal of contributing to software engineering through system design, technical leadership, and high-quality software solutions.
 
-✓ System Design | Clean Architecture
-
-✓ Author | Technical Writer
-
-✓ Web & Mobile Applications
-
-✓ Technology | Personal Development
 
 > **Skills:**
 >
