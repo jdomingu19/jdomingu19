@@ -71,6 +71,65 @@ I am a Software Engineer focused on building modern web applications through cle
 >
 > ✓ 🟦 Technical Diploma in Software Analysis and Development (2020-2021)
 
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🛠️ Skills
+
+- 🎨 **Frontend:** React.js, Tailwind CSS, TypeScript
+- ⚙️ **Backend:** Node.js, Express.js
+- 🗂️ **Database:** PostgreSQL, MongoDB
+- 🛠️ **Tools:** Git, GitHub, Docker, Figma
+- 💡 **Best Practices:** Clean Architecture, Clean Code, System Design
+- 🧠 **AI:** Claude Code, GitHub Copilot, Cursor
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🤝 Soft Skills
+
+- 🗣️ Communication
+- 🎯 Leadership
+- 🧠 Analytical Thinking
+- 🔎 Pattern Detection
+- 💡 Focus
+- 🗺️ Planning
+- 🏃🏻 Proactivity
+- 🤝 Teamwork
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🎯 Hobbies
+
+- ✍🏻 Journaling
+- 📖 Reading
+- 💪🏻 Sports
+- 🎧 Listening to Music
+- ✈️ Traveling
+- 🏕️ Hiking
+- 📸 Photography
+
+</td>
+
+<td valign="top">
+
+### 🎓 Education
+
+- 🟦 Coming Soon...
+- 🟥 Bachelor's Degree in Systems Engineering (2021–2026)
+- 🟦 Technical Diploma in Software Analysis and Development (2020–2021)
+
+</td>
+</tr>
+</table>
+
 ##
 
 > Built with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
