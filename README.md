@@ -23,7 +23,7 @@ I enjoy turning ideas into **intuitive, scalable, and maintainable software**, w
 
 💡 **Interests** — Software Engineering · System Design · Technical Leadership · Technology · Personal Development
 
-> **My goal:** continuously grow as an engineer and contribute to the software industry by designing **high-quality systems, leading with purpose, and building software that creates real value.**
+> Grow as an engineer and contribute to the software industry by designing **high-quality systems, leading with purpose, and building software that creates real value.**
 
 <table>
 
