@@ -19,13 +19,17 @@ I am a Software Engineer focused on building modern web applications through cle
 
 ### 🛠️ Skills
 
-- 🎨 **Frontend:** React.js, Tailwind CSS, TypeScript
+✓ 🎨 **Frontend:** React.js, Tailwind CSS, TypeScript
 
-- ⚙️ **Backend:** Node.js, Express.js
-- 🗂️ **Database:** PostgreSQL, MongoDB
-- 🛠️ **Tools:** Git, GitHub, Docker, Figma
-- 💡 **Best Practices:** Clean Architecture, Clean Code, System Design
-- 🧠 **AI:** Claude Code, GitHub Copilot, Cursor
+✓ ⚙️ **Backend:** Node.js, Express.js
+
+✓ 🗂️ **Database:** PostgreSQL, MongoDB
+
+✓ 🛠️ **Tools:** Git, GitHub, Docker, Figma
+
+✓ 💡 **Best Practices:** Clean Architecture, Clean Code, System Design
+
+✓ 🧠 **AI:** Claude Code, GitHub Copilot, Cursor
 
 </td>
 
