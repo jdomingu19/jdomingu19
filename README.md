@@ -19,7 +19,7 @@ I enjoy turning ideas into **intuitive, scalable, and maintainable software**, w
 
 🏆 **Academic Excellence** — Two-time recipient of the **Academic Excellence Scholarship (BEA)** and **Graduated with Honors** for outstanding academic performance.
 
-🌎 **Languages** — Spanish 🇪🇸 · English 🇺🇸 · Catalan
+🌎 **Languages** — Spanish · Catalan · English
 
 💡 **Interests** — Software Engineering · System Design · Technical Leadership · Technology · Personal Development
 
