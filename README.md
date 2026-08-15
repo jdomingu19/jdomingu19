@@ -29,6 +29,13 @@ I enjoy turning ideas into **intuitive, scalable, and maintainable software**, w
 
 ![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,tailwindcss,typescript,javascript,nodejs,nodemon,npm,html,css,expressjs,sql,mongodb,docker,git,github,githubcopilot,visualstudiocode,cursor,claudeai,json&perline=8&radius=36)
 
+<details>
+<summary>Show info</summary>
+
+> Show your technical stack here...
+
+</details>
+
 <table>
 
 <tr>
