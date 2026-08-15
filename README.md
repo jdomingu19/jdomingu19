@@ -9,9 +9,21 @@
 [![X](https://img.shields.io/badge/X-1C2024?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/jdomingu19)
 [![Instagram](https://img.shields.io/badge/Instagram-1C2024?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://instagram.com/jdomingu19)
 
-## 🧑🏻‍💻 About Me:
+## 🧑🏻‍💻 About Me
 
-I am a Software Engineer focused on building modern web applications through clean architecture, modular design, and user-centered experiences. I create intuitive, scalable, and maintainable software. I strengthen every project through assertive communication, deep focus, continuous learning, and technical documentation. Academic excellence awards and honors reflect my commitment to professional growth, while my passion for technology, software engineering, and personal development drives me to continuously expand my knowledge. I communicate in Spanish, English, and Catalan, allowing me to collaborate in multicultural environments. I continuously develop my technical and leadership skills with the goal of contributing to software engineering through system design, technical leadership, and high-quality software solutions.
+> Building software with **purpose, precision, and continuous growth.** 🚀
+
+I'm a **Software Engineer** focused on building modern applications through **clean architecture, modular design, and user-centered experiences**.
+
+I enjoy turning ideas into **intuitive, scalable, and maintainable software**, while strengthening every project through **assertive communication, deep focus, continuous learning, and thoughtful technical documentation**.
+
+🏆 **Academic Excellence** — Two-time recipient of the **Academic Excellence Scholarship (BEA)** and **Graduated with Honors** for outstanding academic performance.
+
+🌎 **Languages** — Spanish 🇪🇸 · English 🇺🇸 · Catalan
+
+💡 **Interests** — Software Engineering · System Design · Technical Leadership · Technology · Personal Development
+
+> **My goal:** continuously grow as an engineer and contribute to the software industry by designing **high-quality systems, leading with purpose, and building software that creates real value.**
 
 <table>
 
