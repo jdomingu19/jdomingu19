@@ -87,7 +87,7 @@ I am a Software Engineer focused on building modern web applications through cle
   > 🏆 Two-time recipient of the **Academic Excellence Scholarship (BEA)**
 
 ✓ 🟦 Technical Diploma in Software Analysis and Development (2020–2021)  
-  🏅 **Graduated with Honors for Outstanding Academic Performance**
+  > 🏅 **Graduated with Honors for Outstanding Academic Performance**
 
 </td>
 </tr>
