@@ -84,7 +84,7 @@ I am a Software Engineer focused on building modern web applications through cle
 ✓ 🟦 Coming Soon...
 
 ✓ 🟥 Bachelor's Degree in Systems Engineering (2021–2026)  
-  🏆 Two-time recipient of the **Academic Excellence Scholarship (BEA)**
+  > 🏆 Two-time recipient of the **Academic Excellence Scholarship (BEA)**
 
 ✓ 🟦 Technical Diploma in Software Analysis and Development (2020–2021)  
   🏅 **Graduated with Honors for Outstanding Academic Performance**
