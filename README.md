@@ -17,7 +17,7 @@ I am a Software Engineer focused on building modern web applications through cle
 <tr>
 <td valign="top" width="50%">
 
-### 🛠️ Skills
+ 🛠️ Skills
 
 ✓ 🎨 **Frontend:** React.js, Tailwind CSS, TypeScript
 
@@ -37,15 +37,21 @@ I am a Software Engineer focused on building modern web applications through cle
 
 ### 🤝 Soft Skills
 
-- 🗣️ Communication
+✓ 🗣️ Communication
 
-- 🎯 Leadership
-- 🧠 Analytical Thinking
-- 🔎 Pattern Detection
-- 💡 Focus
-- 🗺️ Planning
-- 🏃🏻 Proactivity
-- 🤝 Teamwork
+✓ 🎯 Leadership
+
+✓ 🧠 Analytical Thinking
+
+✓ 🔎 Pattern Detection
+
+✓ 💡 Focus
+
+✓ 🗺️ Planning
+
+✓ 🏃🏻 Proactivity
+
+✓ 🤝 Teamwork
 
 </td>
 </tr>
@@ -55,14 +61,19 @@ I am a Software Engineer focused on building modern web applications through cle
 
 ### 🎯 Hobbies
 
-- ✍🏻 Journaling
+✓ ✍🏻 Journaling
 
-- 📖 Reading
-- 💪🏻 Sports
-- 🎧 Listening to Music
-- ✈️ Traveling
-- 🏕️ Hiking
-- 📸 Photography
+✓ 📖 Reading
+
+✓ 💪🏻 Sports
+
+✓ 🎧 Listening to Music
+
+✓ ✈️ Traveling
+
+✓ 🏕️ Hiking
+
+✓ 📸 Photography
 
 </td>
 
@@ -70,12 +81,12 @@ I am a Software Engineer focused on building modern web applications through cle
 
 ### 🎓 Education
 
-- 🟦 Coming Soon...
+✓ 🟦 Coming Soon...
 
-- 🟥 Bachelor's Degree in Systems Engineering (2021–2026)  
+✓ 🟥 Bachelor's Degree in Systems Engineering (2021–2026)  
   🏆 Two-time recipient of the **Academic Excellence Scholarship (BEA)**
 
-- 🟦 Technical Diploma in Software Analysis and Development (2020–2021)  
+✓ 🟦 Technical Diploma in Software Analysis and Development (2020–2021)  
   🏅 **Graduated with Honors for Outstanding Academic Performance**
 
 </td>
