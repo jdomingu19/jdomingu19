@@ -9,7 +9,7 @@
 [![X](https://img.shields.io/badge/X-1C2024?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/jdomingu19)
 [![Instagram](https://img.shields.io/badge/Instagram-1C2024?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://instagram.com/jdomingu19)
 
-## 🧑🏻‍💻 About Me
+## About Me 🧑🏻‍💻
 
 > Building software with **purpose, precision, and continuous growth.** 🚀
 
@@ -24,6 +24,10 @@ I enjoy turning ideas into **intuitive, scalable, and maintainable software**, w
 💡 **Interests** — Software Engineering · System Design · Technical Leadership · Technology · Personal Development
 
 > Grow as an engineer and contribute to the software industry by designing **high-quality systems, leading with purpose, and building software that creates real value.**
+
+### Skills 🛠️
+
+[![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)](https://github.com/syvixor/skills-icons)
 
 <table>
 
