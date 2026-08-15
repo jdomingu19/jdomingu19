@@ -1,5 +1,3 @@
-# Hello, there! 👋🏻
-
 <img width="100%" alt="header_jdomingu19" src="https://github.com/user-attachments/assets/97290d3e-4acd-4c42-a8d0-0300e5d3ac74" /> 
 
 [![Linktr.ee](https://img.shields.io/badge/linktree-1C2024?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://linktr.ee/jdomingu19)
@@ -9,7 +7,7 @@
 [![X](https://img.shields.io/badge/X-1C2024?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/jdomingu19)
 [![Instagram](https://img.shields.io/badge/Instagram-1C2024?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://instagram.com/jdomingu19)
 
-## About Me 🧑🏻‍💻
+### About Me 🧑🏻‍💻
 
 I'm a **Software Engineer** focused on building modern applications through **clean architecture, modular design, and user-centered experiences**.
 
