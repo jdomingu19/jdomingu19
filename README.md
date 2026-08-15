@@ -17,7 +17,7 @@ I am a Software Engineer focused on building modern web applications through cle
 <tr>
 <td valign="top" width="50%">
 
- 🛠️ Skills
+### 🛠️ Skills
 
 ✓ 🎨 **Frontend:** React.js, Tailwind CSS, TypeScript
 
