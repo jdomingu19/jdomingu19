@@ -11,17 +11,15 @@
 
 ## About Me 🧑🏻‍💻
 
-> Building software with **purpose, precision, and continuous growth.** 🚀
-
 I'm a **Software Engineer** focused on building modern applications through **clean architecture, modular design, and user-centered experiences**.
 
 I enjoy turning ideas into **intuitive, scalable, and maintainable software**, while strengthening every project through **assertive communication, deep focus, continuous learning, and thoughtful technical documentation**.
 
-🏆 **Academic Excellence** — Two-time recipient of the **Academic Excellence Scholarship (BEA)** and **Graduated with Honors** for outstanding academic performance.
-
 🌎 **Languages** — Spanish · Catalan · English
 
 💡 **Interests** — Software Engineering · System Design · Technical Leadership · Technology · Personal Development
+
+🏆 **Academic Excellence** — Two-time recipient of the **Academic Excellence Scholarship (BEA)** and **Graduated with Honors** for outstanding academic performance.
 
 > Grow as an engineer and contribute to the software industry by designing **high-quality systems, leading with purpose, and building software that creates real value.**
 
