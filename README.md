@@ -35,30 +35,6 @@ I am a Software Engineer focused on building modern web applications through cle
 
 </td>
 
-<td valign="top">
-
-### 🎯 Hobbies
-
-✓ ✍🏻 Journaling
-
-✓ 📖 Reading
-
-✓ 💪🏻 Sports
-
-✓ 🎧 Listening to Music
-
-✓ ✈️ Traveling
-
-✓ 🏕️ Hiking
-
-✓ 📸 Photography
-
-</td>
-
-</tr>
-
-<tr>
-
 <td valign="top" width="50%">
 
 ### 🤝 Soft Skills
@@ -79,13 +55,35 @@ I am a Software Engineer focused on building modern web applications through cle
 
 ✓ 🤝 Teamwork
 
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### 🎯 Hobbies
+
+✓ ✍🏻 Journaling
+
+✓ 📖 Reading
+
+✓ 💪🏻 Sports
+
+✓ 🎧 Listening to Music
+
+✓ ✈️ Traveling
+
+✓ 🏕️ Hiking
+
+✓ 📸 Photography
+
+</td>
+
 </td>
 
 <td valign="top">
 
 ### 🎓 Education
-
-✓ 🟦 Coming Soon...
 
 ✓ 🟥 Bachelor's Degree in Systems Engineering (2021–2026)  
   > 🏆 Two-time recipient of the **Academic Excellence Scholarship (BEA)**
