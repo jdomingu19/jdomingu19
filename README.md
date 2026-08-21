@@ -28,7 +28,7 @@ I enjoy turning ideas into **intuitive, scalable, and maintainable software**, w
 <details>
 <summary>Show info</summary>
 
-> React, Tailwind CSS, TypeScript, JavaScript, Node.js, Express.js, NPM, Nodemon, JSON, HTML, CSS, SQL, MongoDB, Docker, Git, GitHub, GitHub Copilot, Visual Studio Code, Cursor, Claude AI
+> React, Tailwind CSS, TypeScript, JavaScript, Node.js, Express.js, Nodemon, NPM, PNPM, JSON, HTML, CSS, SQL, MongoDB, Docker, Git, GitHub, GitHub Copilot, Visual Studio Code, Cursor, Claude AI
 
 </details>
 
