@@ -9,7 +9,7 @@
 
 ### About Me 🧑🏻‍💻
 
-I'm a **Software Engineer** focused on building modern applications through **clean architecture, modular design, and user-centered experiences**.
+I'm a **Software Engineer** focused on building modern web and mobile full-stack applications through **clean architecture, modular design, and user-centered experiences**.
 
 I enjoy turning ideas into **intuitive, scalable, and maintainable software**, while strengthening every project through **assertive communication, deep focus, continuous learning, and thoughtful technical documentation**.
 
