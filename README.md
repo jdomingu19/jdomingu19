@@ -30,6 +30,9 @@ I enjoy turning ideas into **intuitive, scalable, and maintainable software**, w
 
 > React, Tailwind CSS, TypeScript, JavaScript, Node.js, Express.js, Nodemon, NPM, JSON, HTML, CSS, SQL, MongoDB, Docker, Git, GitHub, GitHub Copilot, Visual Studio Code, Cursor, Claude AI
 
+</details>
+
+
 ##
 
 > Built with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
