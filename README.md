@@ -23,12 +23,12 @@ I enjoy turning ideas into **intuitive, scalable, and maintainable software**, w
 
 ### Skills 🛠️
 
-![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,tailwindcss,typescript,javascript,nodejs,nodemon,npm,html,css,expressjs,json,sql,mongodb,docker,git,github,githubcopilot,visualstudiocode,cursor,claudeai&perline=8&radius=36)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,tailwindcss,typescript,javascript,nodejs,expressjs,npm,nodemon,json,html,css,expressjs, sql,mongodb,docker,git,github,githubcopilot,visualstudiocode,cursor,claudeai&perline=8&radius=36)
 
 <details>
 <summary>Show info</summary>
 
-> React, Tailwind CSS, TypeScript, JavaScript, Node.js, Express.js, Nodemon, NPM, JSON, HTML, CSS, SQL, MongoDB, Docker, Git, GitHub, GitHub Copilot, Visual Studio Code, Cursor, Claude AI
+> React, Tailwind CSS, TypeScript, JavaScript, Node.js, Express.js, NPM, Nodemon, JSON, HTML, CSS, SQL, MongoDB, Docker, Git, GitHub, GitHub Copilot, Visual Studio Code, Cursor, Claude AI
 
 </details>
 
