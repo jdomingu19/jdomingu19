@@ -23,99 +23,12 @@ I enjoy turning ideas into **intuitive, scalable, and maintainable software**, w
 
 ### Skills 🛠️
 
-![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,tailwindcss,typescript,javascript,nodejs,nodemon,npm,html,css,expressjs,sql,mongodb,docker,git,github,githubcopilot,visualstudiocode,cursor,claudeai,json&perline=8&radius=36)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,tailwindcss,typescript,javascript,nodejs,nodemon,npm,html,css,expressjs,json,sql,mongodb,docker,git,github,githubcopilot,visualstudiocode,cursor,claudeai&perline=8&radius=36)
 
 <details>
 <summary>Show info</summary>
 
-> Show your technical stack here...
-
-</details>
-
-<table>
-
-<tr>
-
-<td valign="top" width="50%">
-
-### 🛠️ Skills
-
-✓ 🎨 **Frontend:** React.js, Tailwind CSS, TypeScript
-
-✓ ⚙️ **Backend:** Node.js, Express.js
-
-✓ 🗂️ **Database:** PostgreSQL, MongoDB
-
-✓ 🛠️ **Tools:** Git, GitHub, Docker, Figma
-
-✓ 💡 **Best Practices:** Clean Architecture, Clean Code, System Design
-
-✓ 🧠 **AI:** Claude Code, GitHub Copilot, Cursor
-
-</td>
-
-<td valign="top" width="50%">
-
-### 🤝 Soft Skills
-
-✓ 🗣️ Communication
-
-✓ 🎯 Leadership
-
-✓ 🧠 Analytical Thinking
-
-✓ 🔎 Pattern Detection
-
-✓ 💡 Focus
-
-✓ 🗺️ Planning
-
-✓ 🏃🏻 Proactivity
-
-✓ 🤝 Teamwork
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-### 🎯 Hobbies
-
-✓ ✍🏻 Journaling
-
-✓ 📖 Reading
-
-✓ 💪🏻 Sports
-
-✓ 🎧 Listening to Music
-
-✓ ✈️ Traveling
-
-✓ 🏕️ Hiking
-
-✓ 📸 Photography
-
-</td>
-
-</td>
-
-<td valign="top">
-
-### 🎓 Education
-
-✓ 🟥 Bachelor's Degree in Systems Engineering (2021–2026)  
-  > 🏆 Two-time recipient of the **Academic Excellence Scholarship (BEA)**
-
-✓ 🟦 Technical Diploma in Software Analysis and Development (2020–2021)  
-  > 🏅 **Graduated with Honors for Outstanding Academic Performance**
-
-</td>
-
-</tr>
-
-</table>
-
+> React, Tailwind CSS, TypeScript, JavaScript, Node.js, Express.js, Nodemon, NPM, JSON, HTML, CSS, SQL, MongoDB, Docker, Git, GitHub, GitHub Copilot, Visual Studio Code, Cursor, Claude AI
 ##
 
 > Built with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
