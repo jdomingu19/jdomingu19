@@ -23,12 +23,12 @@ I enjoy turning ideas into **intuitive, scalable, and maintainable software**, w
 
 ### Skills 🛠️
 
-![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,reactrouter,vite,tailwindcss,typescript,javascript,nodejs,npm,pnpm,expressjs,axios,postman,json,rest,nodemon,eslint,prettier,upstash,redis,markdown,html,css,postcss,daisyui,sql,mongodb,docker,git,github,githubcopilot,visualstudiocode,cursor,claudeai,notion&perline=8&radius=36)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,reactrouter,vite,tailwindcss,typescript,javascript,nodejs,npm,pnpm,expressjs,axios,postman,json,rest,nodemon,eslint,typescripteslint,prettier,upstash,redis,markdown,html,css,postcss,daisyui,sql,mongodb,docker,git,github,githubcopilot,visualstudiocode,cursor,claudeai,notion&perline=8&radius=36)
 
 <details>
 <summary>Show info</summary>
 
-> React, React Router, Vite.js, Tailwind CSS, TypeScript, JavaScript, Node.js, NPM, PNPM, Express.js, Axios, Postman, JSON, Rest API, Nodemon, ESLint, Prettier, Upstash, Redis, Markdown, HTML, CSS, PostCSS, DaisyUI, SQL, MongoDB, Docker, Git, GitHub, GitHub Copilot, Visual Studio Code, Cursor, Claude AI, Notion
+> React, React Router, Vite.js, Tailwind CSS, TypeScript, JavaScript, Node.js, NPM, PNPM, Express.js, Axios, Postman, JSON, Rest API, Nodemon, ESLint, TypeScript Eslint, Prettier, Upstash, Redis, Markdown, HTML, CSS, PostCSS, DaisyUI, SQL, MongoDB, Docker, Git, GitHub, GitHub Copilot, Visual Studio Code, Cursor, Claude AI, Notion
 
 </details>
 
