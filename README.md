@@ -23,7 +23,7 @@ I enjoy turning ideas into **intuitive, scalable, and maintainable software**, w
 
 ### Skills 🛠️
 
-![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,reactrouter,vitejs,tailwindcss,typescript,javascript,nodejs,npm,pnpm,expressjs,axios,JSON,,nodemon,eslint,upstash,redis,html,css,sql,mongodb,docker,git,github,githubcopilot,visualstudiocode,cursor,claudeai&perline=8&radius=36)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,reactrouter,vite,tailwindcss,typescript,javascript,nodejs,npm,pnpm,expressjs,axios,json,,nodemon,eslint,upstash,redis,html,css,sql,mongodb,docker,git,github,githubcopilot,visualstudiocode,cursor,claudeai&perline=8&radius=36)
 
 <details>
 <summary>Show info</summary>
