@@ -28,7 +28,7 @@ I enjoy turning ideas into **intuitive, scalable, and maintainable software**, w
 <details>
 <summary>Show info</summary>
 
-> React, React Router, Vite.js, Tailwind CSS, TypeScript, JavaScript, Node.js, NPM, PNPM, Express.js, Axios, Postman, JSON, Rest API, Nodemon, ESLint, TypeScript Eslint, Prettier, Upstash, Redis, Markdown, HTML, CSS, SQL, MongoDB, Docker, Windows, Vercel, Git, GitHub, GitHub Copilot, Visual Studio Code, Cursor, Claude AI, Notion
+> React, React Router, Vite.js, Tailwind CSS, TypeScript, JavaScript, Node.js, NPM, PNPM, Express.js, Axios, Postman, JSON, Rest API, Nodemon, ESLint, TypeScript Eslint, Prettier, Upstash, Redis, Markdown, HTML, CSS, SQL, MongoDB, Docker, Windows, Vercel, Git, GitHub, GitHub Copilot, Visual Studio Code, Cursor, Claude AI, Notion.
 
 </details>
 
