@@ -21,7 +21,7 @@ I enjoy turning ideas into **intuitive, scalable, and maintainable software**, w
 
 > Grow as an engineer and contribute to the software industry by designing **high-quality systems, leading with purpose, and building software that creates real value.**
 
-### Skills 🛠️
+### Tech Skills 🛠️
 
 ![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,reactrouter,vite,tailwindcss,typescript,javascript,nodejs,npm,pnpm,expressjs,axios,postman,json,rest,nodemon,eslint,typescripteslint,prettier,upstash,redis,markdown,html,css,postcss,daisyui,sql,mongodb,docker,windows,vercel,git,github,githubcopilot,visualstudiocode,cursor,claudeai,notion&perline=8&radius=36)
 
