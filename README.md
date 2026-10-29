@@ -1,4 +1,5 @@
-<img width="100%" alt="header_jdomingu19" src="https://github.com/user-attachments/assets/97290d3e-4acd-4c42-a8d0-0300e5d3ac74" /> 
+<img width="2056" height="765" alt="jdomingu19's banner" src="https://github.com/user-attachments/assets/eb7081d5-b2eb-4af6-9811-2258397bd47d" />
+
 
 [![Linktr.ee](https://img.shields.io/badge/linktree-1C2024?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010)](https://linktr.ee/jdomingu19)
 [![GitHub](https://img.shields.io/badge/github-1C2024?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/jdomingu19)
@@ -13,9 +14,9 @@ I'm a **Software Engineer** focused on building modern web and mobile full-stack
 
 I enjoy turning ideas into **intuitive, scalable, and maintainable software**, while strengthening every project through **assertive communication, deep focus, continuous learning, and thoughtful technical documentation**.
 
-🌎 **Languages** — Spanish · Catalan · English
+🌎 **Languages** —  English · Spanish · Catalan
 
-💡 **Interests** — Software Engineering · System Design · Technical Leadership · Technology · Personal Development
+💡 **Interests** — Software Engineering · System Design · Technical Leadership · Technology · Humanity
 
 🏆 **Academic Excellence** — Two-time recipient of the **Academic Excellence Scholarship (BEA)** and **Graduated with Honors** for outstanding academic performance.
 
